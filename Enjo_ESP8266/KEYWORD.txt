@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Enjo
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+Enjo KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+getMacName KEYWORD2
+ipToString KEYWORD2
+getApiKeyLog KEYWORD2
+getApiKeyControl KEYWORD2
+postLogDataToHTTPServer KEYWORD2
+getControlDataToHTTPServer KEYWORD2
+wifiAddAP KEYWORD2
+wifiSetup KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
+ON LITERAL1    
+OFF LITERAL1 
